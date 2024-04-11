@@ -7,7 +7,10 @@
 ## Diário
 
 ### 10/04/2024
-[] Criei o repositório.
+[ ] Criei o repositório.
+
+### 11/04/2024
+[ ] Aulas assistidas de 32 ao 39 do curso e com os dois exercícios resolvidos sem assitir as aulas de resolução.
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
