@@ -1,4 +1,4 @@
-#CURSO DE PYTHON PELA UDEMY
+# CURSO DE PYTHON PELA UDEMY
 
 ## Porque de fazer este curso.
 - Esse curso decidi pegar firme, pois a linguagem tem vários pontos fortes para área que atuo (área financeira) e isso será de grande valia para mim.
