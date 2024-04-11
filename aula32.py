@@ -37,7 +37,7 @@ try:
         print('Boa tarde')
     elif hora_int >= 18 and hora_int <= 23:
         print('Boa noite')
-    elif hora_int > 23:
+    else:
         print('Número de hora inválido. Por favor, digite outro número inteiro.')
 except:
     print('Você não digitou um número inteiro.')
@@ -55,10 +55,12 @@ print('#' * 25)
 nome = input('Digite seu nome: ')
 
 try:
-    tamanho = len(int(nome))
+    tamanho = len(nome)
 
-    if type(nome) != str:
-        print('Você não digitou um nome válido.')    
+    if nome.isalnum():      #O prof. não ensinou essa função, mas é algo que eu já havia aprendido.
+        print('Você não digitou um nome válido.')
+    elif tamanho <= 2:
+        print('Digite um nome maior que 2 dígitos.')
     elif tamanho <= 4:
         print(f'Seu nome {nome} é CURTO.')
     elif tamanho > 4 and tamanho <= 6:
