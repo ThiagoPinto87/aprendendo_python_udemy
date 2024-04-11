@@ -9,6 +9,6 @@
 ### 10/04/2024
 [] Criei o repositório.
 
-###### Live
+#### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
-[Link do canal na Twitch] (https://www.twitch.tv/skilo_cba)
+[Link do canal na Twitch] <https://www.twitch.tv/skilo_cba>
