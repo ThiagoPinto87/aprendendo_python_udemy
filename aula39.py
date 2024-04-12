@@ -18,6 +18,7 @@ while contador < tamanho_nome:
     string = f'*{nome[contador]}'
     nova_string += string
     contador += 1
-    #nome[contador] = f'*{nova_string[nome[contador]]}'
+    print(f'{nova_string}*')
 
+print(f'>>> RESULTADO <<<')
 print(f'{nova_string}*')
