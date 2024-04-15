@@ -15,6 +15,9 @@
 ### 12/04/2024
 [] Aula 39 e 40 resolvidas.
 
+### 15/04/2024
+[] Aulas assistidas de 40 com a solução bem como as aulas 41 à 46. Tentando resolver o exercício da aula 47.
+
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
 [Link do canal na Twitch] <https://www.twitch.tv/skilo_cba>
