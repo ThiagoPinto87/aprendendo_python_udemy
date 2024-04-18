@@ -6,29 +6,36 @@ Faça um jogo para o usuário adivinhar qual a palavra secreta.
     - Se a letra digitada não estiver na palavra secreta; exiba "*".
 Faça a contagem de tentativas do seu usuário.
 """
-
-
-# verificar aulas 27 e 29 para a solução do exercício e verificar também o método replace conforme sugerido pelo "Predador_Vegano".
-
+import os
 
 palavra_secreta = 'perfume'
-palavra_formada = ''
+letras_acertadas =''
+cont = 0
 
 while True:
     usuario = input('Digite uma letra: ').lower()
+    cont += 1
 
-    if len(usuario) > 1:
+    #Verifica se o usuário tentou digitar várias letras.
+    if len(usuario) > 1 or usuario.isnumeric():
         print('Digite apenas 1 (uma) letra.')
         continue        # Sai do if voltando ao while.
-
+        
     if usuario in palavra_secreta:
-        for letra in palavra_secreta:
-            if usuario == letra:
-                palavra_formada += usuario
-            else:
-                palavra_formada += '*'
-        print(palavra_formada)
-    else:
-        for letra in palavra_secreta:
+        letras_acertadas += usuario
+
+    palavra_formada =''
+    for letra_secreta in palavra_secreta:
+        if letra_secreta in letras_acertadas:
+            palavra_formada += letra_secreta
+        else:
             palavra_formada += '*'
-        print(palavra_formada)
+    
+    print(f'Palavra formada: {palavra_formada}')
+    
+    if palavra_formada == palavra_secreta:
+        print('VOCÊ ACERTOU')
+        print(f'A palavra era: {palavra_secreta}')
+        print(f'Você tentou {cont} vezes.')
+        letras_acertadas =''
+        cont = 0
