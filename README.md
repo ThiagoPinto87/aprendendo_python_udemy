@@ -18,6 +18,10 @@
 ### 15/04/2024
 [] Aulas assistidas de 40 com a solução bem como as aulas 41 à 46. Tentando resolver o exercício da aula 47.
 
+### 18/04/2024
+[] Resolução da atividade da aula 47. Tive dificuldades para resolver o exercício, pratiquei e tentei por aprox. 1:40h e decidi acompanhar pela resolução do professor. Entendi que preciso prestar atenção no que o 'for' tras de reflexo ao estar em tempo de execução.
+
+
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
 [Link do canal na Twitch] <https://www.twitch.tv/skilo_cba>
