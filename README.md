@@ -7,19 +7,23 @@
 ## Diário
 
 ### 10/04/2024
-[] Criei o repositório.
+[ ] Criei o repositório.
 
 ### 11/04/2024
-[] Aulas assistidas de 32 ao 39 do curso e com os dois exercícios resolvidos sem assitir as aulas de resolução.
+[ ] Aulas assistidas de 32 ao 39 do curso e com os dois exercícios resolvidos sem assitir as aulas de resolução.
 
 ### 12/04/2024
-[] Aula 39 e 40 resolvidas.
+[ ] Aula 39 e 40 resolvidas.
 
 ### 15/04/2024
-[] Aulas assistidas de 40 com a solução bem como as aulas 41 à 46. Tentando resolver o exercício da aula 47.
+[ ] Aulas assistidas de 40 com a solução bem como as aulas 41 à 46. Tentando resolver o exercício da aula 47.
 
 ### 18/04/2024
-[] Resolução da atividade da aula 47. Tive dificuldades para resolver o exercício, pratiquei e tentei por aprox. 1:40h e decidi acompanhar pela resolução do professor. Entendi que preciso prestar atenção no que o 'for' tras de reflexo ao estar em tempo de execução.
+[ ] Resolução da atividade da aula 47. Tive dificuldades para resolver o exercício, pratiquei e tentei por aprox. 1:40h e decidi acompanhar pela resolução do professor. Entendi que preciso prestar atenção no que o 'for' tras de reflexo ao estar em tempo de execução.
+
+### 22/04/2024
+[ ] 11 aulas assistidas e problema da aula 54 resolvido. Porém, estou incrementando ações no sistema do professor, como inserir quantidade e sair do sistema.
+- ATENÇÃO: Falta colocar o <quote>clear</quote> usando a biblioteca 'os'.
 
 
 #### Live
