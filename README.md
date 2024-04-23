@@ -25,6 +25,11 @@
 [ ] 11 aulas assistidas e problema da aula 54 resolvido. Porém, estou incrementando ações no sistema do professor, como inserir quantidade e sair do sistema.
 - ATENÇÃO: Falta colocar o <quote>clear</quote> usando a biblioteca 'os'.
 
+### 23/04/2024
+[ ] 8 aulas assistidas tendo a solução da aula 54 e aula 61 feitas sem observar o resultado do professor. :D.
+- RESPOSTA À ATENÇÃO: Foi executado na aula 54, o <quote>clear</quote> usando a biblioteca 'os'.
+- Foi retirado também a opção de criar a lista com a quantidade pois não foi ensinado ainda dicionário.
+
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
