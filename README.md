@@ -32,6 +32,7 @@
 
 ### 24/04/2024
 [ ] Finalização da 3ª Seção do curso.
+[ ] Início da Seção 4 já falando de funções. Amanhã estaremos estudando além das funções, módulos, global, return, *args.
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
