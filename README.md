@@ -30,6 +30,8 @@
 - RESPOSTA À ATENÇÃO: Foi executado na aula 54, o <quote>clear</quote> usando a biblioteca 'os'.
 - Foi retirado também a opção de criar a lista com a quantidade pois não foi ensinado ainda dicionário.
 
+### 24/04/2024
+[ ] Finalização da 3ª Seção do curso.
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
