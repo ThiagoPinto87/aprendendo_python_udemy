@@ -1,5 +1,7 @@
 # <center>CURSO DE PYTHON PELA UDEMY</center>
 
+## Índice
+
 - [Porque](#porque-de-fazer-este-curso)
 - [Diário](#diário)
 - [Live](#live)
@@ -48,7 +50,7 @@ ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
 
-[Voltar ao Índice](#porque-de-fazer-este-curso)
+[Voltar ao Índice](#índice)
 
 [Voltar ao Diário](#diário)
 
