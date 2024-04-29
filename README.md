@@ -1,10 +1,18 @@
-# CURSO DE PYTHON PELA UDEMY
+# <center>CURSO DE PYTHON PELA UDEMY</center>
+
+- [Porque](#porque-de-fazer-este-curso)
+- [Diário](#diário)
+- [Live](#live)
 
 ## Porque de fazer este curso.
 - Esse curso decidi pegar firme, pois a linguagem tem vários pontos fortes para área que atuo (área financeira) e isso será de grande valia para mim.
 - Meu objetivo é conseguir fazer sites e aplicações observando banco de dados e gerando relatórios e dashborads para os usuários.
 
 ## Diário
+### 2024
+| M | Dias do mês |
+|:--:|:-----:|
+|04| [10](#10042024) ; [11](#11042024) ; [12](#12042024) ; [15](#15042024) ; [18](#18042024) ; [22](#22042024) ; [23](#23042024) ; [24](#24042024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -34,6 +42,15 @@
 ### 24/04/2024
 - [ ] Finalização da 3ª Seção do curso.
 - [ ] Início da Seção 4 já falando de funções. Amanhã estaremos estudando além das funções, módulos, global, return, *args.
+
+
+____
+
+[Voltar ao Topo](#curso-de-python-pela-udemy)
+
+[Voltar ao Índice](#porque-de-fazer-este-curso)
+
+[Voltar ao Diário](#diário)
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
