@@ -54,6 +54,8 @@ ____
 
 [Voltar ao Diário](#diário)
 
+____
+
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
 [Link do canal na Twitch] <https://www.twitch.tv/skilo_cba>
