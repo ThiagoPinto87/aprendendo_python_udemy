@@ -15,7 +15,7 @@
 | M | Dias do mês |
 |:--:|:-----:|
 |04| [10](#10042024) ; [11](#11042024) ; [12](#12042024) ; [15](#15042024) ; [18](#18042024) ; [22](#22042024) ; [23](#23042024) ; [24](#24042024) ; [30](#30042024)
-|05| [03](#03052024)
+|05| [03](#03052024) ; [07](#07052024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -51,6 +51,9 @@
 
 ### 03/05/2024
 - [ ] Assistindo as aulas 78 e 79 com solução do exercício 80.
+
+### 07/05/2024
+- [ ] Assistindo as aulas 81 à 86. Senti mais dificuldades em lambda do que list, set e dictionary comprehension. Curioso né?!?!?!!!! Ou não???? rsrs...
 
 ____
 
