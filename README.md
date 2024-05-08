@@ -15,7 +15,7 @@
 | M | Dias do mês |
 |:--:|:-----:|
 |04| [10](#10042024) ; [11](#11042024) ; [12](#12042024) ; [15](#15042024) ; [18](#18042024) ; [22](#22042024) ; [23](#23042024) ; [24](#24042024) ; [30](#30042024)
-|05| [03](#03052024) ; [07](#07052024)
+|05| [03](#03052024) ; [07](#07052024) ; [08](#08052024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -54,6 +54,9 @@
 
 ### 07/05/2024
 - [ ] Assistindo as aulas 81 à 86. Senti mais dificuldades em lambda do que list, set e dictionary comprehension. Curioso né?!?!?!!!! Ou não???? rsrs...
+
+### 08/05/2024
+- [ ] Assistindo as aulas 87 à 94. Bem produtivo hoje. trantando de try, except, finally, Generator, Iterators e IsIstance.
 
 ____
 
