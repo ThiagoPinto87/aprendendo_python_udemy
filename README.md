@@ -16,6 +16,7 @@
 |:--:|:-----:|
 |04| [10](#10042024) ; [11](#11042024) ; [12](#12042024) ; [15](#15042024) ; [18](#18042024) ; [22](#22042024) ; [23](#23042024) ; [24](#24042024) ; [30](#30042024)
 |05| [03](#03052024) ; [07](#07052024) ; [08](#08052024)
+|06| [17]
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -57,6 +58,9 @@
 
 ### 08/05/2024
 - [ ] Assistindo as aulas 87 à 94. Bem produtivo hoje. trantando de try, except, finally, Generator, Iterators e IsIstance.
+
+### 17/07/2024
+- [ ] Volta aos estudos referente às aulas 95 à 100, aprendendo: exceções, modularizações e packages (pacotes). Quanto ao módulo <code>"aula98.py"</code>, foi feita somente a atualização de uma anotação.
 
 ____
 
