@@ -1,7 +1,5 @@
 # copy, sorted, produtos.sort
 # Exercícios
-# Aumente os preços dos produtos a seguir em 10%
-# Gere novos_produtos por deep copy (cópia profunda)
 produtos = [
     {'nome': 'Produto 5', 'preco': 10.00},
     {'nome': 'Produto 1', 'preco': 22.32},
@@ -9,6 +7,14 @@ produtos = [
     {'nome': 'Produto 2', 'preco': 105.87},
     {'nome': 'Produto 4', 'preco': 69.90},
 ]
+
+# Aumente os preços dos produtos a seguir em 10%
+
+for i in produtos.values():
+    print(i)
+
+
+# Gere novos_produtos por deep copy (cópia profunda)
 
 # Ordene os produtos por nome decrescente (do maior para menor)
 # Gere produtos_ordenados_por_nome por deep copy (cópia profunda)
