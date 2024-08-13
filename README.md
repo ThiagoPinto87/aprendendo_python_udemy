@@ -17,6 +17,7 @@
 |04| [10](#10042024) ; [11](#11042024) ; [12](#12042024) ; [15](#15042024) ; [18](#18042024) ; [22](#22042024) ; [23](#23042024) ; [24](#24042024) ; [30](#30042024)
 |05| [03](#03052024) ; [07](#07052024) ; [08](#08052024)
 |07| [17](#17072024)
+|08| [12](#12082024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -61,6 +62,9 @@
 
 ### 17/07/2024
 - [ ] Volta aos estudos referente às aulas 95 à 100, aprendendo: exceções, modularizações e packages (pacotes). Quanto ao módulo <code>"aula98.py"</code>, foi feita somente a atualização de uma anotação.
+
+### 12/08/2024
+- [ ] Volta aos estudos referente às aulas 100 à 106, aprendendo: foi realizada as duas atividades da aula 100 e 101 e aprendi sobre decoradores e relembrei bem sobre closers (nem sei se está escrito certo. rsrs..)
 
 ____
 
