@@ -67,7 +67,7 @@
 - [ ] Volta aos estudos referente às aulas 100 à 106, aprendendo: foi realizada as duas atividades da aula 100 e 101 e aprendi sobre decoradores e relembrei bem sobre closers (nem sei se está escrito certo. rsrs..)
 
 ### 14/08/2024
-- [ ] Nas aulas 107 à 110, pude aprender sobre a união de listas utilizando strings que somente o python tem como a função 'zip e o 'zip_longest do módulo 'itertools, aprendi também sobre a função 'count que é um contador sem limites (o que se difere do range) e também sobre as funções 'combinations, 'permutations e 'product todas também do módulo 'itertools.
+- [ ] Nas aulas 107 à 110, pude aprender sobre a união de listas utilizando strings que somente o python tem como a função `zip` e o `zip_longest` do módulo `itertools`, aprendi também sobre a função `count` que é um contador sem limites (o que se difere do range) e também sobre as funções `combinations`, `permutations` e `product` todas também do módulo `itertools`.
 
 ____
 
