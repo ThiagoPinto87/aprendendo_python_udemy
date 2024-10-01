@@ -18,6 +18,7 @@
 |05| [03](#03052024) ; [07](#07052024) ; [08](#08052024)
 |07| [17](#17072024)
 |08| [12](#12082024) ; [14](#14082024)
+|09| [24](#24092024) ; [30](#30092024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -72,7 +73,7 @@
 ### 24/09/2024
 - [ ] Nas aulas 115 à 120, falou-se em combinações, permuntações, groupby, funções recursivas, ambientes virtuais, instalações de bibliotecas, métodos úteis e Salvando dados em JSON.
 
-### 25/09/2024
+### 30/09/2024
 - [ ] Nas aulas 121 à 127, início da seção 5, onde falamos de Classes, `Self`, método `__init__`, atributos, métodos, `__dict__` e vars, bem como foi dado um exercício de transformar a classe em um JSON e depois lê-lo.
 
 ____
