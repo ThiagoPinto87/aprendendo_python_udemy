@@ -69,6 +69,12 @@
 ### 14/08/2024
 - [ ] Nas aulas 107 à 110, pude aprender sobre a união de listas utilizando strings que somente o python tem como a função `zip` e o `zip_longest` do módulo `itertools`, aprendi também sobre a função `count` que é um contador sem limites (o que se difere do range) e também sobre as funções `combinations`, `permutations` e `product` todas também do módulo `itertools`.
 
+### 24/09/2024
+- [ ] Nas aulas 115 à 120, falou-se em combinações, permuntações, groupby, funções recursivas, ambientes virtuais, instalações de bibliotecas, métodos úteis e Salvando dados em JSON.
+
+### 25/09/2024
+- [ ] Nas aulas 121 à 127, início da seção 5, onde falamos de Classes, `Self`, método `__init__`, atributos, métodos, `__dict__` e vars, bem como foi dado um exercício de transformar a classe em um JSON e depois lê-lo.
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
