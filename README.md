@@ -19,6 +19,7 @@
 |07| [17](#17072024)
 |08| [12](#12082024) ; [14](#14082024)
 |09| [24](#24092024) ; [30](#30092024)
+|10| [02](#02102024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -75,6 +76,9 @@
 
 ### 30/09/2024
 - [ ] Nas aulas 121 à 127, início da seção 5, onde falamos de Classes, `Self`, método `__init__`, atributos, métodos, `__dict__` e vars, bem como foi dado um exercício de transformar a classe em um JSON e depois lê-lo.
+
+### 02/10/2024
+- [ ] Nas aulas 127 à 130, Foi resolvido o exercício do json, falamos sobra '@classmethod', factories methods e '@staticmethods' e tivemos um bom resumo na sua 130 sobre Methods, classmethod e staticmethod.
 
 ____
 
