@@ -19,7 +19,7 @@
 |07| [17](#17072024)
 |08| [12](#12082024) ; [14](#14082024)
 |09| [24](#24092024) ; [30](#30092024)
-|10| [02](#02102024)
+|10| [02](#02102024); [29](#02102024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -79,6 +79,9 @@
 
 ### 02/10/2024
 - [ ] Nas aulas 127 à 130, Foi resolvido o exercício do json, falamos sobra `@classmethod`, `factories methods` e `@staticmethods` e tivemos um bom resumo na sua 130 sobre `Methods`, `classmethod` e `staticmethod`.
+
+### 29/10/2024
+- [ ] Revisei a aula 130 e 131 fiz novos comentários, bem como já evoluímos para a aula 132 onde falamos dos `getter`'s (`@property`) e `setter`'s (`atrib.setter`)
 
 ____
 
