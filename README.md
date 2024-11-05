@@ -20,6 +20,7 @@
 |08| [12](#12082024) ; [14](#14082024)
 |09| [24](#24092024) ; [30](#30092024)
 |10| [02](#02102024); [29](#02102024)
+|11| [04](#04112024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -82,6 +83,9 @@
 
 ### 29/10/2024
 - [ ] Revisei a aula 130 e 131 fiz novos comentários, bem como já evoluímos para a aula 132 onde falamos dos `getter`'s (`@property`) e `setter`'s (`atrib.setter`)
+
+### 04/11/2024
+- [ ] Revisei as aulas, 131 à 133 sobre `getter` e `setter` e sobre a convenção de encapsulamento em python que não é protegida pela linguagem usando `_` para protected e `__` para private. E aprendi também sobre a Associação, Agregação e Composição e vou começar a tentar fazer a solução do exercício daa aula 137.
 
 ____
 

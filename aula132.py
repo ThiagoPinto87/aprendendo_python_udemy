@@ -12,6 +12,7 @@ class Caneta:
     def __init__(self, cor):
         # private protected
         self.cor = cor
+        # setter, é quando usamos um atributo com "_" na frente para armazenar o valor que desejamos nele.
         # Por convenção, quando se inicia o atributo com o "_" ou "__" no começo, estamos informando a outro dev que o atributo
         # não deve ser usado, pois ele é protegido pela classe e deve ser usado somente dentro da classe.
         self._cor_tampa = None
@@ -20,15 +21,18 @@ class Caneta:
     @property
     def cor(self):
         print('ESTOU NO GETTER')
-        return self._cor
+        return self._cor  # Entrega o valor solicitado
 
+    # Para se usar um setter, tem que ter um @property e abaixo da property usar o
+    # decorator setter respectivo dele (como acima e abaixo desse texto).
     # O setter é um metodo que recebe um valor e altera o valor do atributo.
     # Isso pode ser usado inclusive para controlar o que o usuário pode fazer ou não, como
     # colocar condições ex.: "if valor < 2: print('valor não permitido.')"
+
     @cor.setter
     def cor(self, valor):
         print('ESTOU NO SETTER')
-        self._cor = valor
+        self._cor = valor  # Altera o valor do atributo
 
     @property
     def cor_tampa(self):

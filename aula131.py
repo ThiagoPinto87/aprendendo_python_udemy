@@ -18,7 +18,7 @@
 
 class Caneta:
     def __init__(self, cor):
-        # private, protected, public (encapsulamento)
+        # private, protected, public (encapsulamento em outras linguagens de programação)
         self.cor_tinta = cor
 
     # Serve para proteger o código cliente como se estivesse encapsulando. (é um método que se comporta como atributo)
