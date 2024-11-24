@@ -20,7 +20,7 @@
 |08| [12](#12082024) ; [14](#14082024)
 |09| [24](#24092024) ; [30](#30092024)
 |10| [02](#02102024); [29](#02102024)
-|11| [04](#04112024)
+|11| [04](#04112024); [23](#23112024)
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -86,6 +86,9 @@
 
 ### 04/11/2024
 - [ ] Revisei as aulas, 131 à 133 sobre `getter` e `setter` e sobre a convenção de encapsulamento em python que não é protegida pela linguagem usando `_` para protected e `__` para private. E aprendi também sobre a Associação, Agregação e Composição e vou começar a tentar fazer a solução do exercício daa aula 137.
+
+### 23/11/2024
+- [ ] Só dei continuidade nas aulas 138 à 141 onde falamos de Herança Simples, Sobreposição `super()`, Herança Multipla, Mixins e Abstração. 
 
 ____
 
