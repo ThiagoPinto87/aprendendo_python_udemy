@@ -21,6 +21,8 @@
 |09| [24](#24092024) ; [30](#30092024)
 |10| [02](#02102024); [29](#02102024)
 |11| [04](#04112024); [23](#23112024)
+|12| [16] (#16122024)
+
 
 ### 10/04/2024
 - [ ] Criei o repositório.
@@ -89,6 +91,9 @@
 
 ### 23/11/2024
 - [ ] Só dei continuidade nas aulas 138 à 141 onde falamos de Herança Simples, Sobreposição `super()`, Herança Multipla, Mixins e Abstração. 
+
+### 16/12/2024
+- [ ] Dei continuidade das aulas 142 à 148 Onde falamos sobre abstração, polimorfismo, excesões e falando sobre Dunder Methods ou Special Methods.
 
 ____
 
