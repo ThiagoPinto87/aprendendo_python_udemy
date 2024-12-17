@@ -93,7 +93,7 @@
 - [ ] Só dei continuidade nas aulas 138 à 141 onde falamos de Herança Simples, Sobreposição `super()`, Herança Multipla, Mixins e Abstração. 
 
 ### 16/12/2024
-- [ ] Dei continuidade das aulas 142 à 148 Onde falamos sobre abstração, polimorfismo, excesões e falando sobre Dunder Methods ou Special Methods.
+- [ ] Dei continuidade das aulas 142 à 148 Onde falamos sobre abstração, polimorfismo, excesões, falamos sobre Dunder Methods ou Special Methods, falamos também de `__new__`, `__init__` e Context Manager com classes.
 
 ____
 
