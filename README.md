@@ -93,8 +93,23 @@
 - [ ] Só dei continuidade nas aulas 138 à 141 onde falamos de Herança Simples, Sobreposição `super()`, Herança Multipla, Mixins e Abstração. 
 
 ### 16/12/2024
-- [ ] Dei continuidade das aulas 142 à 148 Onde falamos sobre abstração, polimorfismo, excesões, falamos sobre Dunder Methods ou Special Methods, falamos também de `__new__`, `__init__` e Context Manager com classes.
+- [ ] Dei continuidade das aulas 142 à 150 Onde falamos sobre abstração, polimorfismo, excesões, falamos sobre Dunder Methods ou Special Methods, falamos também de `__new__`, `__init__` e Context Manager com classes.
 
+### 17/12/2024
+- [ ] Hoje aprendi sobre, funções decoradoras e decoradores com classes
+
+### 06/01/225
+- [ ] Voltei o ano com o gás renovado após as férias para aprender mais sobre o python, já sabendo que teria alguns desafios.
+Hoje assistimos as aulas:
+-Funções decoradoras e decoradores com classes;
+- Falamos sobre repr;
+- Método `__call__` ;
+- Classes decoradoras;
+- Meta Classes (Apesar de achar que provavelmente não utilizarei tão cedo.);
+- Enum (Que pode ser bem dinâmico nas utilizações diárias);
+- E já verifiquei sobre o enunciado do exercício de criar um sistema de banco simplificado para utilizar tudo o que aprendemos até aqui, focando em Abstração, Herança, Encapsulamento e Polimorfismo.
+- Sobre o exercício, imaginei que o professor fosse criar uma pasta só para ele. Só comecei a assitir os primeiros segundos da solução do professor, para confirmar minha teoria (que estava certa) para tentar sozinho inicialmente.
+Pretento ainda hoje mexer no sistema e vou postando aqui.
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
