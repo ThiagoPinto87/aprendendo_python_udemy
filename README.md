@@ -98,7 +98,7 @@
 ### 17/12/2024
 - [ ] Hoje aprendi sobre, funções decoradoras e decoradores com classes
 
-### 06/01/225
+### 06/01/2025
 - [ ] Voltei o ano com o gás renovado após as férias para aprender mais sobre o python, já sabendo que teria alguns desafios.
 Hoje assistimos as aulas:
 -Funções decoradoras e decoradores com classes;
@@ -110,6 +110,12 @@ Hoje assistimos as aulas:
 - E já verifiquei sobre o enunciado do exercício de criar um sistema de banco simplificado para utilizar tudo o que aprendemos até aqui, focando em Abstração, Herança, Encapsulamento e Polimorfismo.
 - Sobre o exercício, imaginei que o professor fosse criar uma pasta só para ele. Só comecei a assitir os primeiros segundos da solução do professor, para confirmar minha teoria (que estava certa) para tentar sozinho inicialmente.
 Pretento ainda hoje mexer no sistema e vou postando aqui.
+
+### 10/01/2025
+- Corrigi o Readme.md do dia 06/01/25;
+- Como estou ancioso para trocar de módulo do curso, acabei assistindo as aulas de solução do exercício, mas com certeza irei fazer lives para desenvolver SaaS com utilizando todos esses métodos.
+- Aprendi também sobre dataclasses que são a forma mais fácil de se criar uma classe, onde ela já compõe as funções e métodos necessários para uma classe base, podendo também, criar novas funções e métodos, bem como `property` e `setter`.
+É interessante, pois no `dataclasses` é possível se ter um `__post_init__` que inicializa após o `__init__`.
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
