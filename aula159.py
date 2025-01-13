@@ -4,7 +4,11 @@
 # usuário.
 # Em resumo: dataclasses são syntax sugar para criar classes normais.
 # Foi descrito na PEP 557 e adicionado na versão 3.7 do Python.
+
+
 # doc: https://docs.python.org/3/library/dataclasses.html
+
+
 from dataclasses import dataclass
 
 
