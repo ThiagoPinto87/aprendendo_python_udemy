@@ -116,7 +116,15 @@ Pretento ainda hoje mexer no sistema e vou postando aqui.
 - Corrigi o Readme.md do dia 06/01/25;
 - Como estou ancioso para trocar de módulo do curso, acabei assistindo as aulas de solução do exercício, mas com certeza irei fazer lives para desenvolver SaaS com utilizando todos esses métodos.
 - Aprendi também sobre dataclasses que são a forma mais fácil de se criar uma classe, onde ela já compõe as funções e métodos necessários para uma classe base, podendo também, criar novas funções e métodos, bem como `property` e `setter`.
-É interessante, pois no `dataclasses` é possível se ter um `__post_init__` que inicializa após o `__init__`.
+É interessante, pois no **dataclasses** é possível se ter um `__post_init__` que inicializa após o `__init__`.
+Usando o decorator, pode-se fazer diversas modificações na `dataclass`
+- Foi ensinado também o NamedTuple que pode ser usado por meio de duas bibliotecas diferentes, sendo que achei a `typing` melhor pois se assemelha mais com as classes, e pode-se typar suas variáveis.
+- Foi ensinado como implementar nossa própria lista com `iterable`, `iterator` e usando também o `Sequence` da biblioteca `colections.abc`.
+- Finalizamos assim a Seção 5.
+- INÍCIO DA SEÇÃO 6
+- Iniciamos a fala sobre o módulo datetime nativo do python.
+
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
