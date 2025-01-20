@@ -22,7 +22,7 @@
 |10/2024| [02](#02102024); [29](#02102024)
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
-|01/2025| [06](#06012025); [13](#13012025); [15](#15012025)
+|01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025)
 
 
 ### 10/04/2024
@@ -129,6 +129,14 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 - O exercício de data foi bem bacana pois entrou diretamente em aplicações práticas que eu utilizo em meu dia-a-dia. Inclusive, pude perceber que somando as parcelas do empréstimo (sim era sobre financiamento :D) o montante do empréstimo devolveria R$1.000.000,20 e isso não estava descrito e entendo que é somente para praticar, mas já estou ansioso pra testar isso mais pra frente pois já tenho uma idéia de como resolver essa situação podendo colocar a parcela de ajuste tanto na primeira como na ultima parcela (usando tt parcelas - 1)
 - Foi ensinado também sobre calendários.
 - Foi tratado também sobre o Locale que conforme orientação do professor, ele SUGERE que seja colocado já no main do programa o locale e bem no início e com a categoria como ALL e com o segundo atributo como ''.
+
+### 20/01/2025
+- Iniciamos os estudos falando sobre os pacotes do python:
+    - `os.path`;
+    - `os.listdir`;
+    - `os.join`;
+    - `os.walk`;
+    - `shutil` que faz várias ações do `os` de forma mais simplificada, mas o os nos vai dar mais controle em cada ação.
 
 
 
