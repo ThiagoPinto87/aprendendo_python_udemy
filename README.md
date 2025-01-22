@@ -22,7 +22,7 @@
 |10/2024| [02](#02102024); [29](#02102024)
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
-|01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025)
+|01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025)
 
 
 ### 10/04/2024
@@ -138,7 +138,18 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - `os.walk`;
     - `shutil` que faz várias ações do `os` de forma mais simplificada, mas o os nos vai dar mais controle em cada ação.
 
+### 22/01/2025
+- Em fim, comecei a estudar sobre arquivos `*.json` já estava ansioso por essa aula para tentar mais pra frente consumir API's.
+- Foi ensinado sobre `import json` e os metodos `json.loads` e `json.dumps` para trabalhar diretamente na string manualmente, bem como o `pprint` e o `typing.TypedDict` (apesar de ter uma aula só sobre tipagem).
+- Foi ensinado sobre `import json` e os metodos `json.load` e `json.dump` para trabalhar com o arquivo agora.
 
+- Foi ensinado sobre o pathlib que está em um vídeo gratuíto no youtube que vou colocar aqui o link (33 min): [Link do video] <https://www.youtube.com/watch?v=T17BTNKBeJY>
+- Muito bacana aprender sobre o pathlib
+
+- Aprendi também sobre manipulação de arquivo `*.csv`.
+- Aprendi também sobre a biblioteca `random` e `secrets` usando o `SystemRandom`.
+- Estudei sobre o `string.Template`.
+- Falou-se também sobre variáveis de ambiente.
 
 ____
 
