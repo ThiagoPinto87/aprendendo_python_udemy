@@ -143,7 +143,7 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 - Foi ensinado sobre `import json` e os metodos `json.loads` e `json.dumps` para trabalhar diretamente na string manualmente, bem como o `pprint` e o `typing.TypedDict` (apesar de ter uma aula só sobre tipagem).
 - Foi ensinado sobre `import json` e os metodos `json.load` e `json.dump` para trabalhar com o arquivo agora.
 
-- Foi ensinado sobre o pathlib que está em um vídeo gratuíto no youtube que vou colocar aqui o link (33 min): [Link do video] <https://www.youtube.com/watch?v=T17BTNKBeJY>
+- Foi ensinado sobre o pathlib que está em um vídeo gratuíto no youtube que vou colocar aqui o link (33 min): [Link do video](https://www.youtube.com/watch?v=T17BTNKBeJY)
 - Muito bacana aprender sobre o pathlib
 
 - Aprendi também sobre manipulação de arquivo `*.csv`.
