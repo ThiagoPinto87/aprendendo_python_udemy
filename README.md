@@ -150,6 +150,7 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 - Aprendi também sobre a biblioteca `random` e `secrets` usando o `SystemRandom`.
 - Estudei sobre o `string.Template`.
 - Falou-se também sobre variáveis de ambiente.
+- Aprendi também a enviar emails pelo gmail usando o SMTP.
 
 ____
 
