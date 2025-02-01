@@ -22,7 +22,7 @@
 |10/2024| [02](#02102024); [29](#02102024)
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
-|01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025)
+|01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
 
 
 ### 10/04/2024
@@ -150,7 +150,12 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 - Aprendi também sobre a biblioteca `random` e `secrets` usando o `SystemRandom`.
 - Estudei sobre o `string.Template`.
 - Falou-se também sobre variáveis de ambiente.
-- Aprendi também a enviar emails pelo gmail usando o SMTP.
+- Aprendi também a enviar emails pelo gmail usando o SMTP (aula185 vídeo-aula 302 e 303).
+
+### 31/01/2025
+- Hoje foi dia de aprender a mexer com o `zipfle` módulo nativo do python.
+- Está sendo ensinado também a Executar arquivos com argumentos no sistema usando `sys.argv` e `ArgumentParser`.
+- Foi ensinado também o básico do protocolo HTTP e com isso aprenderemos a fazer raspagem de dados webscraping. (arquivo aula189.py e video-aula nº 308 e 309.)
 
 ____
 
@@ -164,4 +169,4 @@ ____
 
 #### Live
 Quer me ver passando vergonha ao aprender? Acesse abaixo!!!
-[Link do canal na Twitch] <https://www.twitch.tv/skilo_cba>
+<https://www.twitch.tv/skilo_cba>
