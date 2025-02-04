@@ -23,6 +23,7 @@
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
+|02/2025| [04](#04022025)
 
 
 ### 10/04/2024
@@ -156,6 +157,12 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 - Hoje foi dia de aprender a mexer com o `zipfle` módulo nativo do python.
 - Está sendo ensinado também a Executar arquivos com argumentos no sistema usando `sys.argv` e `ArgumentParser`.
 - Foi ensinado também o básico do protocolo HTTP e com isso aprenderemos a fazer raspagem de dados webscraping. (arquivo aula189.py e video-aula nº 308 e 309.)
+
+### 04/02/2025
+- EXTRA DE HTML E CSS: Como tenho o conhecimento muito superficial de html e css, decidi fazer todo o curso para poder usufruir melhor do webscraping, técnica que preciso usar bastante no meu dia-a-dia.
+    - Aprendendo sobre a estrutura HTML;
+    
+
 
 ____
 
