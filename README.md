@@ -161,6 +161,10 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 ### 04/02/2025
 - EXTRA DE HTML E CSS: Como tenho o conhecimento muito superficial de html e css, decidi fazer todo o curso para poder usufruir melhor do webscraping, técnica que preciso usar bastante no meu dia-a-dia.
     - Aprendendo sobre a estrutura HTML;
+    - Atributos;
+    - Tags;
+    - Headings;
+    - Semântica;
     
 
 
