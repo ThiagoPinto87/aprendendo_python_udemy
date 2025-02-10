@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            border-collapse: collapse;
+        }
+        table td, table th{
+            border: 1px solid black;
+        }
+
+        tfoot{
+            background: silver;
+        }
+        .responsive-table{
+            max-width: 100%;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <p>Lorem, ipsum </p>
+    <div class="responsive-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>Título 1</th>
+                    <th>Título 2</th>
+                    <th>Título 3</th>
+                </tr>
+                <tbody>
+                    <caption>Uma descrição da tabela</caption>
+                    <tr>
+                        <td>Corpo1</td>
+                        <td>Corpo2</td>
+                        <td>Corpo3</td>
+                    </tr>
+                    <tr>
+                        <td>Corpo1</td>
+                        <td>Corpo2</td>
+                        <td>Corpo3</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" rowspan="2">aqui</td>
+                        <td>Corpo3</td>
+                    </tr>
+                    <tr>
+                        
+                        <td>Corpo3</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="2">Total</td>
+                        
+                        <td>R$5.500,00</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">ticket médio</td>
+                        
+                        <td>R$500,00</td>
+                    </tr>
+                </tfoot>
+            </thead>
+        </table>
+    </div>
+</body>
+</html>

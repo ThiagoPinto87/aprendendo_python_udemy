@@ -165,6 +165,9 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - Tags;
     - Headings;
     - Semântica;
+
+### 10/02/2025
+-   Aprendi sobre os formulários e seus atributos
     
 
 
