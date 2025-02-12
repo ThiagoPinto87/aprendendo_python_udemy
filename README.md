@@ -23,7 +23,7 @@
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
-|02/2025| [04](#04022025); [10](#10022025)
+|02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a)
 
 
 ### 10/04/2024
@@ -168,9 +168,52 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
 
 ### 10/02/2025
 -   Aprendi sobre os formulários e seus atributos
+
+### 12/02/2025
+- Aprendi sobre os seletores de CSS que além dos seletores de classe e tags, temos:
+    - `*` (Seleciona todos os elementos da página);
+    - `>` (Seleção de decendente direto);
+    - `+` (Seleção de próxima tag ou classe - adjacente sibling selector);
+    - `~` (Seleção de todas as tags ou classes após uma determinada classe ou tag - generator sibling selector);
+- Falamos também sobre os seletores de atributo que são:
+    - `[exemplo-de-atributo~='valor']` (vai selecionar somente aqueles que possuem o atributo com a descrição valor);
+    - `[exemplo-de-atributo^='valor']` (a descrição deve começar com valor independente de traço ou não);
+    - `[exemplo-de-atributo$='or']` (a descrição termina com or ou seja, valor); 
+    - `[exemplo-de-atributo*='al']` (a descrição contem al, ou seja valor);
+    - `[exemplo-de-atributo|='valor']` (vai selecionar aqueles que COMECEM com a descrição valor e seguida de um traço, por exemplo: valor- ...);
+- Falamos também de seletor de pseudo classe que verifica o estado de um elemento, como por exemplo `checked` demonstrando que um determinado elemento está checado em um checkbox. Alguns exemplos são:
+    - `hover`
+    - `checked`
+    - `active`
+    - `link`
+    - `visited`
+    - `focus`
+    - `disabled`desabilitado
+    - `enabled` habilitado
+    - `first-child` primeiro filho de uma lista por exemplo
+    - `last-child` ultimo filho de uma lista por exemplo
+    - `required`é um campo requerido (obrigatório)
+    - `not()` utiliza todos os lementos exceto (not) o que eu precisar, por exemplo: p:not(.meio) aqui, selecionei todos os parágrafos exceto àqueles que possuem a classe meio.
+    - `nth-child()` Seleciona a partir de um grupo de irmãos, baseado por exemplo pelo índice (que começa por 1) par (even) ou ímpares (odd), de 5 em 5 (5n) ou apartir do 3, selecionar de 2 em 2 (2n+3)
+
+- Seletores de pseudo elementos como exemplo:
+    - `::selection`
+    - `::placeholder`
+    - `::after`
+    - `::before`
+    - `::first-letter`
+    - `::first-line`
     
+- Falamos também da especificidade do CSS informando que a ordem de disposição importa e será levado em consideração, porém, é possível calculá-lo como ordem de importancia (que será levado em consideração a regra de precedencia da seguinte forma: especificidade, empate, style e !important):
+ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
+1/0/0
+0/1/0
+1/1/0
+- Após isso, me parece que já falamos de todos os seletores que o professor tinha previsto, então vou voltar a assistir a aula para falarmos sobre webscraping.
 
-
+### 12/02/2025a
+- Voltando a aula de webscraping:
+- Aprendendo sobre o módulo `requests`. 
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
