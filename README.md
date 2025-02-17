@@ -23,7 +23,7 @@
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
-|02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a)
+|02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025)
 
 
 ### 10/04/2024
@@ -214,6 +214,13 @@ ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
 ### 12/02/2025a
 - Voltando a aula de webscraping:
 - Aprendendo sobre o módulo `requests`. 
+
+### 17/02/2025
+- Aprendi hoje sobre o Selenium e fazer dele automações.
+- Nessa automação, pude aprender a fazer a espera por um tag (`aula193/main_a.py`)
+- Há dois arquivos `main`, mas atenção que o correto é o caminho acima, visto que a aula gravada pelo professor, está antes da atualização do chromedriver 115, onde não é mais necessário, baixar o driver do navegador, podendo seguir direto, conforme eu já havia colocado.
+É importante destacar que não tentei ocutar o `--headless`, mas isso vale para estudo posterior.
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)

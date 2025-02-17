@@ -1,7 +1,7 @@
 # (Parte 1) Básico do protocolo HTTP (HyperText Transfer Protocol)
 # HTTP (HyperText Transfer Protocol) é um protocolo usado enviar e receber
 # dados na Internet. Ele funciona no modo cliente/servidor, onde o cliente
-# (seu navegador, por exemplo) faz uma requisição ao servidor
+# (seu navegador/cliente, por exemplo) faz uma requisição ao servidor
 # (site, por exemplo), que responde com os dados adequados.
 #
 # A mensagem de requisição do cliente deve incluir dados como:
