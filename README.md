@@ -224,6 +224,9 @@ ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
 ### 21/02/2025
 - Subprocessos para executar programas e comandos externos.
 
+### 24/02/2025
+- Aprendendo sobre Openpyxl (manipulação de planilhas), Pillow (manipulação de imagens) e Pyside 6 (Gui Gráfica)
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
