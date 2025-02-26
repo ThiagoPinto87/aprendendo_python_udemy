@@ -17,4 +17,4 @@ botao2 = QPushButton('Texto do botão')
 botao2.setStyleSheet('font-size: 40px; color: blue')
 botao2.show()  # Adiciona o widget na hierarquia e exibe a janela
 
-app.exec()  # O loop da aplicação
+app.exec()  # Excuta o loop da aplicação.

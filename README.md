@@ -23,7 +23,7 @@
 |11/2024| [04](#04112024); [23](#23112024)
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
-|02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025); [21](#21022025); [24](#24022025)
+|02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025); [21](#21022025); [24](#24022025); [26](#26022025)
 
 
 ### 10/04/2024
@@ -226,6 +226,10 @@ ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
 
 ### 24/02/2025
 - Aprendendo sobre Openpyxl (manipulação de planilhas), Pillow (manipulação de imagens) e Pyside 6 (Gui Gráfica)
+
+### 26/02/2025
+- Já finalizamos a parte de instalação do PySide6 e descobri que teremos 28 aulas com informações (que conforme já dei uma olhada no conteúdo programático) bem relevantes com mais detalhes à biblioteca.
+- Já começamos a calculadora.
 
 ____
 
