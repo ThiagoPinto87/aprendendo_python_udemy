@@ -16,7 +16,9 @@ class MainWindow(QMainWindow):
 
     def adjustFixedSize(self):
         # Última coisa a ser feita
+        # Abre a tela ajustando-a
         self.adjustSize()
+        # Após o ajuste da janela em sua abertura, ela fixa de forma a não permitir o usuário mexer nela.
         self.setFixedSize(self.width(), self.height())
 
     def addWidgetToVLayout(self, widget: QWidget):

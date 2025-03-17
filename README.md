@@ -24,6 +24,7 @@
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
 |02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025); [21](#21022025); [24](#24022025); [26](#26022025)
+|03/2025| [16](#16032025)
 
 
 ### 10/04/2024
@@ -230,6 +231,21 @@ ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
 ### 26/02/2025
 - Já finalizamos a parte de instalação do PySide6 e descobri que teremos 28 aulas com informações (que conforme já dei uma olhada no conteúdo programático) bem relevantes com mais detalhes à biblioteca.
 - Já começamos a calculadora.
+
+### 16/03/2025
+- Como comecei a trabalhar em uma empresa que demanda bastante tempo, estarei menos frequente aqui para estudar com vocês. Mas estarei me esforçando que sempre que estiver estudando, estarei compartilhando meu estudo na twitch e aqui no github.
+Portanto, lembrem-se de marcar a notificação caso queira companhar comigo meu estudo e bora lá.
+- Relembrado as ultimas 4 aulas do curso;
+- Aprendemos sobre a estilização e criação de botões.
+- IMPORTANTE: toda vez que tiver atualização no código do main. Atentar-se para o parâmetro solicitado no arquivo `main.py` onde faz a estilização do tema dark conforme abaixo
+
+'''pyhton
+if __name__ == '__main__':
+    # Cria a aplicação
+    app = QApplication(sys.argv)
+    setupTheme(app)
+    window = MainWindow()
+'''
 
 ____
 
