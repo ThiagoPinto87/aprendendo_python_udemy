@@ -14,11 +14,11 @@ qss = f"""
     }}
     PushButton[cssClass="specialButton"]:hover {{
         color: #fff;
-        background: {DARKER_PRIMARY_COLOR};
+        background: {DARKEST_PRIMARY_COLOR};
     }}
     PushButton[cssClass="specialButton"]:pressed {{
         color: #fff;
-        background: {DARKEST_PRIMARY_COLOR};
+        background: {DARKER_PRIMARY_COLOR};
     }}
 """
 

@@ -1,6 +1,6 @@
 import sys
 
-from buttons import Button
+from buttons import ButtonsGrid
 from display import Display
 from info import Info
 from main_window import MainWindow
@@ -21,21 +21,16 @@ if __name__ == '__main__':
     app.setWindowIcon(icon)
 
     # Info
-    info = Info('2.0 ^ 10.0 = 1024')
-    window.addToVLayout(info)
+    info = Info('Sua conta')
+    window.addWidgetToVLayout(info)
 
     # Display
     display = Display()
-    window.addToVLayout(display)
+    window.addWidgetToVLayout(display)
 
-    button = Button('Texto do botão')
-    window.addToVLayout(button)
-
-    button2 = Button('Texto do botão')
-    window.addToVLayout(button2)
-
-    button3 = Button('Texto do botão')
-    window.addToVLayout(button3)
+    # Grid
+    buttonsGrid = ButtonsGrid(display, info)
+    window.vLayout.addLayout(buttonsGrid)
 
     # Executa tudo
     window.adjustFixedSize()

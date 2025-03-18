@@ -16,32 +16,8 @@ class MainWindow(QMainWindow):
 
     def adjustFixedSize(self):
         # Última coisa a ser feita
-        # Abre a tela ajustando-a
         self.adjustSize()
-        # Após o ajuste da janela em sua abertura, ela fixa de forma a não permitir o usuário mexer nela.
         self.setFixedSize(self.width(), self.height())
 
     def addWidgetToVLayout(self, widget: QWidget):
-        self.vLayout.addWidget(widget)
-
-
-class MainWindow(QMainWindow):
-    def __init__(self, parent: QWidget | None = None, *args, **kwargs) -> None:
-        super().__init__(parent, *args, **kwargs)
-
-        # Configurando o layout básico
-        self.cw = QWidget()
-        self.vLayout = QVBoxLayout()
-        self.cw.setLayout(self.vLayout)
-        self.setCentralWidget(self.cw)
-
-        # Título da janela
-        self.setWindowTitle('Calculadora')
-
-    def adjustFixedSize(self):
-        # Última coisa a ser feita
-        self.adjustSize()
-        self.setFixedSize(self.width(), self.height())
-
-    def addToVLayout(self, widget: QWidget):
         self.vLayout.addWidget(widget)
