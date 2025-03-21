@@ -24,7 +24,7 @@
 |12/2024| [16](#16122024)
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
 |02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025); [21](#21022025); [24](#24022025); [26](#26022025)
-|03/2025| [16](#16032025); [17](#17032025)
+|03/2025| [16](#16032025); [17](#17032025); [20](#20032025)
 
 
 ### 10/04/2024
@@ -249,6 +249,9 @@ if __name__ == '__main__':
 
 ### 17/03/2025
 - Passado pelas aulas onde foi criado os botões utilizando um laço `for` com `enumerate` e já deixando o `getter` e o `setter` para serem configurados na próxima aula.
+
+### 20/03/2025
+- Hoje como cheguei mais tarde em casa, decidi por arrumar algumas configurações da live e fazer um teste rápido, portanto ficou somente a aula sobre a configuração inicial dos botões especiais.
 
 ____
 
