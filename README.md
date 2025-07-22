@@ -253,6 +253,10 @@ if __name__ == '__main__':
 ### 20/03/2025
 - Hoje como cheguei mais tarde em casa, decidi por arrumar algumas configurações da live e fazer um teste rápido, portanto ficou somente a aula sobre a configuração inicial dos botões especiais.
 
+### 21/07/2025
+- Volta às aulas depois de muita correria. Estive ausente das aulas por motivos pessoais, mas vamos que vamos galera.
+Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
