@@ -257,6 +257,10 @@ if __name__ == '__main__':
 - Volta às aulas depois de muita correria. Estive ausente das aulas por motivos pessoais, mas vamos que vamos galera.
 Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
 
+### 08/09/2025
+- Até que em fim consegui chegar nas aulas de SQL.
+- Aprendi sobre Worker e Thread também e parece ser bastante útil para não travar formulários.
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)

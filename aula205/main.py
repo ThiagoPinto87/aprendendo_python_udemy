@@ -23,6 +23,7 @@ cursor = connection.cursor()
 
 # Registrar valores nas colunas da tabela.
 
+#CUIDADO: POIS É POSSÍVEL SQL INJECTION
 cursor.execute(
     f'INSERT INTO {TABLE_NAME} (id, name, weight) '
     'VALUES (NULL, "João", 70.5)'
