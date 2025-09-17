@@ -261,6 +261,12 @@ Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
 - Até que em fim consegui chegar nas aulas de SQL.
 - Aprendi sobre Worker e Thread também e parece ser bastante útil para não travar formulários.
 
+### 16/09/2025
+- No início da live relembrei as aulas iniciais de SQLite.
+    - Relembrei a parte de abertura e fechamento de conexão, sua estrutura que vem de servidor, base de dados, tabela, colunas e linhas;
+    - Aprendi sobre o CRUD usando Python
+    - Será iniciado na proxima aula, sobre a instalação do Docker e do Mysql.
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
