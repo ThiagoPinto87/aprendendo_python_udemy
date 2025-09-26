@@ -25,6 +25,10 @@
 |01/2025| [06](#06012025); [13](#13012025); [15](#15012025); [20](#20012025); [22](#22012025);[31](#31012025)
 |02/2025| [04](#04022025); [10](#10022025); [12](#12022025); [12a](#12022025a); [17](#17022025); [21](#21022025); [24](#24022025); [26](#26022025)
 |03/2025| [16](#16032025); [17](#17032025); [20](#20032025)
+|07/2025| [21](#21072025)
+|08/2025| Que vergonha, sem estudar!!!!!
+|09/2025| [08](#08092025); [16](#16092025); [25](#25092025)
+
 
 
 ### 10/04/2024
@@ -266,6 +270,9 @@ Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
     - Relembrei a parte de abertura e fechamento de conexão, sua estrutura que vem de servidor, base de dados, tabela, colunas e linhas;
     - Aprendi sobre o CRUD usando Python
     - Será iniciado na proxima aula, sobre a instalação do Docker e do Mysql.
+
+### 25/09/2025
+- Hoje a live foi bastante simplificada e cortada em 3 momentos, rsrsrs... para instalar o docker precisa reiniciar para instalação do WSL2 e depois de ter instalado o docker, ele também faz o logout. De qualquer forma quero agradecer a todos que insistiram em participar assim como o mestre dunossauro e o novo follower Nemo.
 
 ____
 
