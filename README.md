@@ -27,7 +27,8 @@
 |03/2025| [16](#16032025); [17](#17032025); [20](#20032025)
 |07/2025| [21](#21072025)
 |08/2025| Que vergonha, sem estudar!!!!!
-|09/2025| [08](#08092025); [16](#16092025); [25](#25092025)
+|09/2025| [08](#08092025); [16](#16092025); [25](#25092025); [29](#29092025)
+|10/2025| [01](#01102025)
 
 
 
@@ -273,6 +274,16 @@ Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
 
 ### 25/09/2025
 - Hoje a live foi bastante simplificada e cortada em 3 momentos, rsrsrs... para instalar o docker precisa reiniciar para instalação do WSL2 e depois de ter instalado o docker, ele também faz o logout. De qualquer forma quero agradecer a todos que insistiram em participar assim como o mestre dunossauro e o novo follower Nemo.
+
+### 29/09/2025
+- Hoje apesar de eu não ter conseguido evoluir muito (dado pelo fato de eu insistir de fazer a conexão usando variável de ambiente e não conseguir, decidi portanto, seguir como está no curso do processor, pois deu certo) ainda estou motivado e apesar dos problemas, aprendi bastante como iniciar, parar, ver o log, finalizar ou matar a conexão usando o metodo `down` o que foi bastante interessante.
+
+### 01/10/2025
+- Apanhamos novamente na conexão e base de dados, pois:
+    - não lembrei de que o aplicativo do docker tem que estar aberto;
+    - não lembrei também que é importante trabalhar com ambiente virtual e por não ter o costume, tive que pesquiser novamente como criava o ambiente e como ativá-lo;
+- Após isso, evoluímos para criar a conexão, o cursor, criar a tabela e fazer as primeiras alimentações inclusive colocando placeholder.
+
 
 ____
 
