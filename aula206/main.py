@@ -132,14 +132,17 @@ with connection:
 
     
     #LENDO os valores com SELECT
-    with connection.cursor() as cursor:   
+    with connection.cursor() as cursor:
+        menor_id = 2
+        maior_id = 5
+
         sql = (
             f'SELECT * FROM {TABLE_NAME} '
-            'WHERE id > 5 '
+            'WHERE id BETWEEN %s AND %s'
         )
 
-        cursor.execute(sql)
-        
+        cursor.execute(sql, (menor_id, maior_id))
+
         print('-' * 50)
         print('Lendo todas as linhas com fetchall()')
         data6 = cursor.fetchall()
