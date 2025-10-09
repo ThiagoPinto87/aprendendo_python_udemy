@@ -28,7 +28,7 @@
 |07/2025| [21](#21072025)
 |08/2025| Que vergonha, sem estudar!!!!!
 |09/2025| [08](#08092025); [16](#16092025); [25](#25092025); [29](#29092025)
-|10/2025| [01](#01102025)
+|10/2025| [01](#01102025);[06](#06102025); [08](#08102025)
 
 
 
@@ -283,6 +283,20 @@ Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
     - não lembrei de que o aplicativo do docker tem que estar aberto;
     - não lembrei também que é importante trabalhar com ambiente virtual e por não ter o costume, tive que pesquiser novamente como criava o ambiente e como ativá-lo;
 - Após isso, evoluímos para criar a conexão, o cursor, criar a tabela e fazer as primeiras alimentações inclusive colocando placeholder.
+
+
+### 06/10/2025
+- Apanhamos novamente na conexão e base de dados, pois:
+    - Apesar de ter lembrado de que o aplicativo do docker tem que estar aberto;
+    - Apesar de ter lembrado que é importante trabalhar com ambiente virtual e por não ter o costume, tive que pesquiser novamente como criava o ambiente e como ativá-lo;
+    - Me esqueci que tem que ser Instalado o `pip install cryptography`
+- Após isso, evoluímos para criar novas conexões, e assim já aprender sobre a leitura de dados do Banco de Dados.
+
+
+### 08/10/2025
+- Hoje não apanhamos, foi tranquilo para iniciar os estudos;
+- Aprendemos sobre o Update e o Delete, bem como outras funcionalidades que podem ser úteis como `scroll`, `rowcount`, `lastrowid` e `rownumber`.
+- Na próxima live, iremos entrar na matéria que tanto queremos, Django!!! Boraaaaaa!!!!!
 
 
 ____
