@@ -299,6 +299,12 @@ Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
 - Na próxima live, iremos entrar na matéria que tanto queremos, Django!!! Boraaaaaa!!!!!
 
 
+### 15/10/2025
+- Diante da recomendação do saudoso professor Luiz Otávio, e considerando que estou no processo de aprendizagem, vou aderir a sugestão do professor em criar arquivos específicos do projeto, porém, estarei registrando as atualizações cotianamente neste diário.
+- Aprendizado de hoje foi muito top, me motivando novamente a estudar programação ao ver o site (mesmo que ainda a tela de servidor) funcionando, subindo o servidor, entendendo cada arquivo inicial, aprendendo a criar o arquivo na raiz, sem criar pasta e subpasta do projeto e já criando os primeiros app's.
+- Não vejo a hora de já começar a estudar na sexta-feira (17/10). Vamos pra cima galeraaaa!!!!
+
+
 ____
 
 [Voltar ao Topo](#curso-de-python-pela-udemy)
