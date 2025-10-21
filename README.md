@@ -28,7 +28,7 @@
 |07/2025| [21](#21072025)
 |08/2025| Que vergonha, sem estudar!!!!!
 |09/2025| [08](#08092025); [16](#16092025); [25](#25092025); [29](#29092025)
-|10/2025| [01](#01102025);[06](#06102025); [08](#08102025)
+|10/2025| [01](#01102025);[06](#06102025); [08](#08102025); [15](#15102025); [20](#20102025)
 
 
 
@@ -120,25 +120,25 @@ Hoje assistimos as aulas:
 Pretento ainda hoje mexer no sistema e vou postando aqui.
 
 ### 13/01/2025
-- Corrigi o Readme.md do dia 06/01/25;
-- Como estou ancioso para trocar de módulo do curso, acabei assistindo as aulas de solução do exercício, mas com certeza irei fazer lives para desenvolver SaaS com utilizando todos esses métodos.
-- Aprendi também sobre dataclasses que são a forma mais fácil de se criar uma classe, onde ela já compõe as funções e métodos necessários para uma classe base, podendo também, criar novas funções e métodos, bem como `property` e `setter`.
+- [ ] Corrigi o Readme.md do dia 06/01/25;
+- [ ] Como estou ancioso para trocar de módulo do curso, acabei assistindo as aulas de solução do exercício, mas com certeza irei fazer lives para desenvolver SaaS com utilizando todos esses métodos.
+- [ ] Aprendi também sobre dataclasses que são a forma mais fácil de se criar uma classe, onde ela já compõe as funções e métodos necessários para uma classe base, podendo também, criar novas funções e métodos, bem como `property` e `setter`.
 É interessante, pois no **dataclasses** é possível se ter um `__post_init__` que inicializa após o `__init__`.
 Usando o decorator, pode-se fazer diversas modificações na `dataclass`
-- Foi ensinado também o NamedTuple que pode ser usado por meio de duas bibliotecas diferentes, sendo que achei a `typing` melhor pois se assemelha mais com as classes, e pode-se typar suas variáveis.
+- [ ] Foi ensinado também o NamedTuple que pode ser usado por meio de duas bibliotecas diferentes, sendo que achei a `typing` melhor pois se assemelha mais com as classes, e pode-se typar suas variáveis.
 - Foi ensinado como implementar nossa própria lista com `iterable`, `iterator` e usando também o `Sequence` da biblioteca `colections.abc`.
-- Finalizamos assim a Seção 5.
-- INÍCIO DA SEÇÃO 6
-- Iniciamos a fala sobre o módulo datetime nativo do python.
+- [ ] Finalizamos assim a Seção 5.
+- [ ] INÍCIO DA SEÇÃO 6
+- [ ] Iniciamos a fala sobre o módulo datetime nativo do python.
 
 ### 15/01/2025
-- Foi tratado sobre as datas, calculos usando datas e passado algumas bibliotecas que serão interessantes ler e aprender.
-- O exercício de data foi bem bacana pois entrou diretamente em aplicações práticas que eu utilizo em meu dia-a-dia. Inclusive, pude perceber que somando as parcelas do empréstimo (sim era sobre financiamento :D) o montante do empréstimo devolveria R$1.000.000,20 e isso não estava descrito e entendo que é somente para praticar, mas já estou ansioso pra testar isso mais pra frente pois já tenho uma idéia de como resolver essa situação podendo colocar a parcela de ajuste tanto na primeira como na ultima parcela (usando tt parcelas - 1)
-- Foi ensinado também sobre calendários.
-- Foi tratado também sobre o Locale que conforme orientação do professor, ele SUGERE que seja colocado já no main do programa o locale e bem no início e com a categoria como ALL e com o segundo atributo como ''.
+- [ ] Foi tratado sobre as datas, calculos usando datas e passado algumas bibliotecas que serão interessantes ler e aprender.
+- [ ] O exercício de data foi bem bacana pois entrou diretamente em aplicações práticas que eu utilizo em meu dia-a-dia. Inclusive, pude perceber que somando as parcelas do empréstimo (sim era sobre financiamento :D) o montante do empréstimo devolveria R$1.000.000,20 e isso não estava descrito e entendo que é somente para praticar, mas já estou ansioso pra testar isso mais pra frente pois já tenho uma idéia de como resolver essa situação podendo colocar a parcela de ajuste tanto na primeira como na ultima parcela (usando tt parcelas - 1)
+- [ ] Foi ensinado também sobre calendários.
+- [ ] Foi tratado também sobre o Locale que conforme orientação do professor, ele SUGERE que seja colocado já no main do programa o locale e bem no início e com a categoria como ALL e com o segundo atributo como ''.
 
 ### 20/01/2025
-- Iniciamos os estudos falando sobre os pacotes do python:
+- [ ] Iniciamos os estudos falando sobre os pacotes do python:
     - `os.path`;
     - `os.listdir`;
     - `os.join`;
@@ -146,26 +146,26 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - `shutil` que faz várias ações do `os` de forma mais simplificada, mas o os nos vai dar mais controle em cada ação.
 
 ### 22/01/2025
-- Em fim, comecei a estudar sobre arquivos `*.json` já estava ansioso por essa aula para tentar mais pra frente consumir API's.
-- Foi ensinado sobre `import json` e os metodos `json.loads` e `json.dumps` para trabalhar diretamente na string manualmente, bem como o `pprint` e o `typing.TypedDict` (apesar de ter uma aula só sobre tipagem).
-- Foi ensinado sobre `import json` e os metodos `json.load` e `json.dump` para trabalhar com o arquivo agora.
+- [ ] Em fim, comecei a estudar sobre arquivos `*.json` já estava ansioso por essa aula para tentar mais pra frente consumir API's.
+- [ ] Foi ensinado sobre `import json` e os metodos `json.loads` e `json.dumps` para trabalhar diretamente na string manualmente, bem como o `pprint` e o `typing.TypedDict` (apesar de ter uma aula só sobre tipagem).
+- [ ] Foi ensinado sobre `import json` e os metodos `json.load` e `json.dump` para trabalhar com o arquivo agora.
 
-- Foi ensinado sobre o pathlib que está em um vídeo gratuíto no youtube que vou colocar aqui o link (33 min): [Link do video](https://www.youtube.com/watch?v=T17BTNKBeJY)
-- Muito bacana aprender sobre o pathlib
+- [ ] Foi ensinado sobre o pathlib que está em um vídeo gratuíto no youtube que vou colocar aqui o link (33 min): [Link do video](https://www.youtube.com/watch?v=T17BTNKBeJY)
+- [ ] Muito bacana aprender sobre o pathlib
 
-- Aprendi também sobre manipulação de arquivo `*.csv`.
-- Aprendi também sobre a biblioteca `random` e `secrets` usando o `SystemRandom`.
-- Estudei sobre o `string.Template`.
-- Falou-se também sobre variáveis de ambiente.
-- Aprendi também a enviar emails pelo gmail usando o SMTP (aula185 vídeo-aula 302 e 303).
+- [ ] Aprendi também sobre manipulação de arquivo `*.csv`.
+- [ ] Aprendi também sobre a biblioteca `random` e `secrets` usando o `SystemRandom`.
+- [ ] Estudei sobre o `string.Template`.
+- [ ] Falou-se também sobre variáveis de ambiente.
+- [ ] Aprendi também a enviar emails pelo gmail usando o SMTP (aula185 vídeo-aula 302 e 303).
 
 ### 31/01/2025
-- Hoje foi dia de aprender a mexer com o `zipfle` módulo nativo do python.
-- Está sendo ensinado também a Executar arquivos com argumentos no sistema usando `sys.argv` e `ArgumentParser`.
-- Foi ensinado também o básico do protocolo HTTP e com isso aprenderemos a fazer raspagem de dados webscraping. (arquivo aula189.py e video-aula nº 308 e 309.)
+- [ ] Hoje foi dia de aprender a mexer com o `zipfle` módulo nativo do python.
+- [ ] Está sendo ensinado também a Executar arquivos com argumentos no sistema usando `sys.argv` e `ArgumentParser`.
+- [ ] Foi ensinado também o básico do protocolo HTTP e com isso aprenderemos a fazer raspagem de dados webscraping. (arquivo aula189.py e video-aula nº 308 e 309.)
 
 ### 04/02/2025
-- EXTRA DE HTML E CSS: Como tenho o conhecimento muito superficial de html e css, decidi fazer todo o curso para poder usufruir melhor do webscraping, técnica que preciso usar bastante no meu dia-a-dia.
+- [ ] EXTRA DE HTML E CSS: Como tenho o conhecimento muito superficial de html e css, decidi fazer todo o curso para poder usufruir melhor do webscraping, técnica que preciso usar bastante no meu dia-a-dia.
     - Aprendendo sobre a estrutura HTML;
     - Atributos;
     - Tags;
@@ -173,21 +173,21 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - Semântica;
 
 ### 10/02/2025
--   Aprendi sobre os formulários e seus atributos
+- [ ] Aprendi sobre os formulários e seus atributos
 
 ### 12/02/2025
-- Aprendi sobre os seletores de CSS que além dos seletores de classe e tags, temos:
+- [ ] Aprendi sobre os seletores de CSS que além dos seletores de classe e tags, temos:
     - `*` (Seleciona todos os elementos da página);
     - `>` (Seleção de decendente direto);
     - `+` (Seleção de próxima tag ou classe - adjacente sibling selector);
     - `~` (Seleção de todas as tags ou classes após uma determinada classe ou tag - generator sibling selector);
-- Falamos também sobre os seletores de atributo que são:
+- [ ] Falamos também sobre os seletores de atributo que são:
     - `[exemplo-de-atributo~='valor']` (vai selecionar somente aqueles que possuem o atributo com a descrição valor);
     - `[exemplo-de-atributo^='valor']` (a descrição deve começar com valor independente de traço ou não);
     - `[exemplo-de-atributo$='or']` (a descrição termina com or ou seja, valor); 
     - `[exemplo-de-atributo*='al']` (a descrição contem al, ou seja valor);
     - `[exemplo-de-atributo|='valor']` (vai selecionar aqueles que COMECEM com a descrição valor e seguida de um traço, por exemplo: valor- ...);
-- Falamos também de seletor de pseudo classe que verifica o estado de um elemento, como por exemplo `checked` demonstrando que um determinado elemento está checado em um checkbox. Alguns exemplos são:
+- [ ] Falamos também de seletor de pseudo classe que verifica o estado de um elemento, como por exemplo `checked` demonstrando que um determinado elemento está checado em um checkbox. Alguns exemplos são:
     - `hover`
     - `checked`
     - `active`
@@ -202,7 +202,7 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - `not()` utiliza todos os lementos exceto (not) o que eu precisar, por exemplo: p:not(.meio) aqui, selecionei todos os parágrafos exceto àqueles que possuem a classe meio.
     - `nth-child()` Seleciona a partir de um grupo de irmãos, baseado por exemplo pelo índice (que começa por 1) par (even) ou ímpares (odd), de 5 em 5 (5n) ou apartir do 3, selecionar de 2 em 2 (2n+3)
 
-- Seletores de pseudo elementos como exemplo:
+- [ ] Seletores de pseudo elementos como exemplo:
     - `::selection`
     - `::placeholder`
     - `::after`
@@ -210,38 +210,38 @@ Usando o decorator, pode-se fazer diversas modificações na `dataclass`
     - `::first-letter`
     - `::first-line`
     
-- Falamos também da especificidade do CSS informando que a ordem de disposição importa e será levado em consideração, porém, é possível calculá-lo como ordem de importancia (que será levado em consideração a regra de precedencia da seguinte forma: especificidade, empate, style e !important):
+- [ ] Falamos também da especificidade do CSS informando que a ordem de disposição importa e será levado em consideração, porém, é possível calculá-lo como ordem de importancia (que será levado em consideração a regra de precedencia da seguinte forma: especificidade, empate, style e !important):
 ID / CLASSES, ATRIBUTOS e PSEUDO-CLASSES / ELEMENTOS e PSEUDO-ELEMENTOS
 1/0/0
 0/1/0
 1/1/0
-- Após isso, me parece que já falamos de todos os seletores que o professor tinha previsto, então vou voltar a assistir a aula para falarmos sobre webscraping.
+- [ ] Após isso, me parece que já falamos de todos os seletores que o professor tinha previsto, então vou voltar a assistir a aula para falarmos sobre webscraping.
 
 ### 12/02/2025a
-- Voltando a aula de webscraping:
-- Aprendendo sobre o módulo `requests`. 
+- [ ] Voltando a aula de webscraping:
+- [ ] Aprendendo sobre o módulo `requests`. 
 
 ### 17/02/2025
-- Aprendi hoje sobre o Selenium e fazer dele automações.
-- Nessa automação, pude aprender a fazer a espera por um tag (`aula193/main_a.py`)
-- Há dois arquivos `main`, mas atenção que o correto é o caminho acima, visto que a aula gravada pelo professor, está antes da atualização do chromedriver 115, onde não é mais necessário, baixar o driver do navegador, podendo seguir direto, conforme eu já havia colocado.
+- [ ] Aprendi hoje sobre o Selenium e fazer dele automações.
+- [ ] Nessa automação, pude aprender a fazer a espera por um tag (`aula193/main_a.py`)
+- [ ] Há dois arquivos `main`, mas atenção que o correto é o caminho acima, visto que a aula gravada pelo professor, está antes da atualização do chromedriver 115, onde não é mais necessário, baixar o driver do navegador, podendo seguir direto, conforme eu já havia colocado.
 É importante destacar que não tentei ocutar o `--headless`, mas isso vale para estudo posterior.
 
 ### 21/02/2025
-- Subprocessos para executar programas e comandos externos.
+- [ ] Subprocessos para executar programas e comandos externos.
 
 ### 24/02/2025
-- Aprendendo sobre Openpyxl (manipulação de planilhas), Pillow (manipulação de imagens) e Pyside 6 (Gui Gráfica)
+- [ ] Aprendendo sobre Openpyxl (manipulação de planilhas), Pillow (manipulação de imagens) e Pyside 6 (Gui Gráfica)
 
 ### 26/02/2025
-- Já finalizamos a parte de instalação do PySide6 e descobri que teremos 28 aulas com informações (que conforme já dei uma olhada no conteúdo programático) bem relevantes com mais detalhes à biblioteca.
-- Já começamos a calculadora.
+- [ ] Já finalizamos a parte de instalação do PySide6 e descobri que teremos 28 aulas com informações (que conforme já dei uma olhada no conteúdo programático) bem relevantes com mais detalhes à biblioteca.
+- [ ] Já começamos a calculadora.
 
 ### 16/03/2025
-- Como comecei a trabalhar em uma empresa que demanda bastante tempo, estarei menos frequente aqui para estudar com vocês. Mas estarei me esforçando que sempre que estiver estudando, estarei compartilhando meu estudo na twitch e aqui no github.
+- [ ] Como comecei a trabalhar em uma empresa que demanda bastante tempo, estarei menos frequente aqui para estudar com vocês. Mas estarei me esforçando que sempre que estiver estudando, estarei compartilhando meu estudo na twitch e aqui no github.
 Portanto, lembrem-se de marcar a notificação caso queira companhar comigo meu estudo e bora lá.
-- Relembrado as ultimas 4 aulas do curso;
-- Aprendemos sobre a estilização e criação de botões.
+- [ ] Relembrado as ultimas 4 aulas do curso;
+- [ ] Aprendemos sobre a estilização e criação de botões.
 - IMPORTANTE: toda vez que tiver atualização no código do main. Atentar-se para o parâmetro solicitado no arquivo `main.py` onde faz a estilização do tema dark conforme abaixo
 
 '''pyhton
@@ -253,56 +253,67 @@ if __name__ == '__main__':
 '''
 
 ### 17/03/2025
-- Passado pelas aulas onde foi criado os botões utilizando um laço `for` com `enumerate` e já deixando o `getter` e o `setter` para serem configurados na próxima aula.
+- [ ] Passado pelas aulas onde foi criado os botões utilizando um laço `for` com `enumerate` e já deixando o `getter` e o `setter` para serem configurados na próxima aula.
 
 ### 20/03/2025
-- Hoje como cheguei mais tarde em casa, decidi por arrumar algumas configurações da live e fazer um teste rápido, portanto ficou somente a aula sobre a configuração inicial dos botões especiais.
+- [ ] Hoje como cheguei mais tarde em casa, decidi por arrumar algumas configurações da live e fazer um teste rápido, portanto ficou somente a aula sobre a configuração inicial dos botões especiais.
 
 ### 21/07/2025
-- Volta às aulas depois de muita correria. Estive ausente das aulas por motivos pessoais, mas vamos que vamos galera.
+- [ ] Volta às aulas depois de muita correria. Estive ausente das aulas por motivos pessoais, mas vamos que vamos galera.
 Dá força aí, se inscreve no canal da twitch e vamos pra cimaaaaa!!!!!
 
 ### 08/09/2025
-- Até que em fim consegui chegar nas aulas de SQL.
-- Aprendi sobre Worker e Thread também e parece ser bastante útil para não travar formulários.
+- [ ] Até que em fim consegui chegar nas aulas de SQL.
+- [ ] Aprendi sobre Worker e Thread também e parece ser bastante útil para não travar formulários.
 
 ### 16/09/2025
-- No início da live relembrei as aulas iniciais de SQLite.
+- [ ] No início da live relembrei as aulas iniciais de SQLite.
     - Relembrei a parte de abertura e fechamento de conexão, sua estrutura que vem de servidor, base de dados, tabela, colunas e linhas;
     - Aprendi sobre o CRUD usando Python
     - Será iniciado na proxima aula, sobre a instalação do Docker e do Mysql.
 
 ### 25/09/2025
-- Hoje a live foi bastante simplificada e cortada em 3 momentos, rsrsrs... para instalar o docker precisa reiniciar para instalação do WSL2 e depois de ter instalado o docker, ele também faz o logout. De qualquer forma quero agradecer a todos que insistiram em participar assim como o mestre dunossauro e o novo follower Nemo.
+- [ ] Hoje a live foi bastante simplificada e cortada em 3 momentos, rsrsrs... para instalar o docker precisa reiniciar para instalação do WSL2 e depois de ter instalado o docker, ele também faz o logout. De qualquer forma quero agradecer a todos que insistiram em participar assim como o mestre dunossauro e o novo follower Nemo.
 
 ### 29/09/2025
-- Hoje apesar de eu não ter conseguido evoluir muito (dado pelo fato de eu insistir de fazer a conexão usando variável de ambiente e não conseguir, decidi portanto, seguir como está no curso do processor, pois deu certo) ainda estou motivado e apesar dos problemas, aprendi bastante como iniciar, parar, ver o log, finalizar ou matar a conexão usando o metodo `down` o que foi bastante interessante.
+- [ ] Hoje apesar de eu não ter conseguido evoluir muito (dado pelo fato de eu insistir de fazer a conexão usando variável de ambiente e não conseguir, decidi portanto, seguir como está no curso do processor, pois deu certo) ainda estou motivado e apesar dos problemas, aprendi bastante como iniciar, parar, ver o log, finalizar ou matar a conexão usando o metodo `down` o que foi bastante interessante.
 
 ### 01/10/2025
-- Apanhamos novamente na conexão e base de dados, pois:
+- [ ] Apanhamos novamente na conexão e base de dados, pois:
     - não lembrei de que o aplicativo do docker tem que estar aberto;
     - não lembrei também que é importante trabalhar com ambiente virtual e por não ter o costume, tive que pesquiser novamente como criava o ambiente e como ativá-lo;
-- Após isso, evoluímos para criar a conexão, o cursor, criar a tabela e fazer as primeiras alimentações inclusive colocando placeholder.
+- [ ] Após isso, evoluímos para criar a conexão, o cursor, criar a tabela e fazer as primeiras alimentações inclusive colocando placeholder.
 
 
 ### 06/10/2025
-- Apanhamos novamente na conexão e base de dados, pois:
+- [ ] Apanhamos novamente na conexão e base de dados, pois:
     - Apesar de ter lembrado de que o aplicativo do docker tem que estar aberto;
     - Apesar de ter lembrado que é importante trabalhar com ambiente virtual e por não ter o costume, tive que pesquiser novamente como criava o ambiente e como ativá-lo;
     - Me esqueci que tem que ser Instalado o `pip install cryptography`
-- Após isso, evoluímos para criar novas conexões, e assim já aprender sobre a leitura de dados do Banco de Dados.
+- [ ] Após isso, evoluímos para criar novas conexões, e assim já aprender sobre a leitura de dados do Banco de Dados.
 
 
 ### 08/10/2025
-- Hoje não apanhamos, foi tranquilo para iniciar os estudos;
-- Aprendemos sobre o Update e o Delete, bem como outras funcionalidades que podem ser úteis como `scroll`, `rowcount`, `lastrowid` e `rownumber`.
-- Na próxima live, iremos entrar na matéria que tanto queremos, Django!!! Boraaaaaa!!!!!
+- [ ] Hoje não apanhamos, foi tranquilo para iniciar os estudos;
+- [ ] Aprendemos sobre o Update e o Delete, bem como outras funcionalidades que podem ser úteis como `scroll`, `rowcount`, `lastrowid` e `rownumber`.
+- [ ] Na próxima live, iremos entrar na matéria que tanto queremos, Django!!! Boraaaaaa!!!!!
 
 
 ### 15/10/2025
-- Diante da recomendação do saudoso professor Luiz Otávio, e considerando que estou no processo de aprendizagem, vou aderir a sugestão do professor em criar arquivos específicos do projeto, porém, estarei registrando as atualizações cotianamente neste diário.
-- Aprendizado de hoje foi muito top, me motivando novamente a estudar programação ao ver o site (mesmo que ainda a tela de servidor) funcionando, subindo o servidor, entendendo cada arquivo inicial, aprendendo a criar o arquivo na raiz, sem criar pasta e subpasta do projeto e já criando os primeiros app's.
-- Não vejo a hora de já começar a estudar na sexta-feira (17/10). Vamos pra cima galeraaaa!!!!
+- [ ] Diante da recomendação do saudoso professor Luiz Otávio, e considerando que estou no processo de aprendizagem, vou aderir a sugestão do professor em criar arquivos específicos do projeto, porém, estarei registrando as atualizações cotianamente neste diário.
+- [ ] Aprendizado de hoje foi muito top, me motivando novamente a estudar programação ao ver o site (mesmo que ainda a tela de servidor) funcionando, subindo o servidor, entendendo cada arquivo inicial, aprendendo a criar o arquivo na raiz, sem criar pasta e subpasta do projeto e já criando os primeiros app's.
+- [ ] Não vejo a hora de já começar a estudar na sexta-feira (17/10). Vamos pra cima galeraaaa!!!!
+
+### 20/10/2025
+- [ ] Hoje foi ensinado sobre aninhamento de urls, include, urls dos apps do Django, sobre o render, configurando templates globais, configurando DIRS e exteds para herança de templates (usando neste caso em templates globais) e arquivos parciais usando o include para dar produtividade na criação de sites.
+- [ ] Para a próxima aula, devemos falar sobre:
+- Arquivos estáticos;
+- Usar Context para enviar dados para os templates;
+- URL's dinâmicas
+- Mover os CSS's para o global;
+- Criando o partial `postblock.html` usanod o include.
+- Usar block para criar blocos de post e home;
+- Entendendo o HTML final e adicionando CSS aos posts.
 
 
 ____
